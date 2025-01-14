@@ -8,7 +8,9 @@ Cours de traitement d'images donné à l'Ecole Technique
 
 ## Lien utile
 
-- UNet demo (vidéo)
+Vidéos tutoriels 
+
+- Démonstration UNet avec Tensorflow (vidéo)
 
 ## Auteur
 
