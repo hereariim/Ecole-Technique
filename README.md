@@ -4,7 +4,8 @@ Cours de traitement d'images donné à l'Ecole Technique
 ## Pré-requis
 
 - Système exploitation : Windows
-- Google colab ?
+- Google colab
+- Data : [nucleus](https://drive.google.com/file/d/1l_pUCthM7AYKJZKdvfz3f3YyIkWHVCuQ/view?usp=drive_link)
 
 ## Lien utile
 
