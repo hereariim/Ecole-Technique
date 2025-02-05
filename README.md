@@ -1,16 +1,19 @@
-# Ecole-Technique
-Cours de traitement d'images donné à l'Ecole Technique
+# Traitement  de données : Développer des modules
+
+Ce document est un atelier de l'école technique 2025. L'objectif de ce document est d'illustrer la conception d'un modèle deep learning : de l'importation des données jusqu'à l'évaluation.
+
+Ce cours n'est pas un cours complet sur le deep learning. Ceci requiert beaucoup plus de temps pour connaitre les trois grandes familles de modèle en vision par ordinateur et les techniques classiques d'amélioration de modèle. Ce cours apparait à la fin de deux ateliers : introduction au traitement de données et conception d'une base de données vérité terrain. Ce cours porte seulement sur l'explication d'un code pour concevoir un modèle de segmentation d'images de d'Arabidopsis Thaliana.
 
 ## Pré-requis
 
 - Système exploitation : Windows, Linux, MAC
 - Un compte Google avec Google colaboratory installé sur Google Drive
-- Data : [Arabidopsis Thaliana](https://uabox.univ-angers.fr/s/Fgn9PtaxrNWMeQK/download/thaliana.zip)
+- Data utilisé : [Arabidopsis Thaliana](https://uabox.univ-angers.fr/s/8nNR49DQJfJP7ie/download/herbe.zip)
 - Connexion internet
 
 ## Lien utile
 
-Vidéos tutoriels 
+Vidéo tutoriel (en français) :
 
 - Démonstration UNet avec Tensorflow : [Youtube](https://www.youtube.com/watch?v=wOmJnn3NrvE)
 
@@ -20,7 +23,7 @@ Herearii Metuarea, PhD, Université d'Angers
 
 ## Autres contributeurs
 
-Equipe ImHorphen :
+Equipe ImHorphen de l'Université d'Angers :
 
 - David Rousseau, Professeur des Universités, Université d'Angers
 - Abdoul Djalil Hamza Ousseini, Ingénieur d'études, INRAe
