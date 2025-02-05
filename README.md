@@ -3,15 +3,16 @@ Cours de traitement d'images donné à l'Ecole Technique
 
 ## Pré-requis
 
-- Système exploitation : Windows
-- Google colab
-- Data : [nucleus](https://drive.google.com/file/d/1l_pUCthM7AYKJZKdvfz3f3YyIkWHVCuQ/view?usp=drive_link)
+- Système exploitation : Windows, Linux, MAC
+- Un compte Google avec Google colaboratory installé sur Google Drive
+- Data : [Arabidopsis Thaliana](https://uabox.univ-angers.fr/s/Fgn9PtaxrNWMeQK/download/thaliana.zip)
+- Connexion internet
 
 ## Lien utile
 
 Vidéos tutoriels 
 
-- Démonstration UNet avec Tensorflow (vidéo)
+- Démonstration UNet avec Tensorflow : [Youtube](https://www.youtube.com/watch?v=wOmJnn3NrvE)
 
 ## Auteur
 
