@@ -10,6 +10,8 @@ Annotation des images est une activité où un expert annote à sa main les éti
 
 - Détection d'objet : une image d'un objet est associée à un tableau de coordonnées d'une boîte englobante encadrant l'objet figurant sur l'image
 
+![Ecole technique](https://github.com/user-attachments/assets/3e0729ad-a032-4b3b-bf44-0dc333fd61a5)
+
 ## Intérêt
 
 A partir d'une image couleur et de sa vérité terrain, le modèle va tenter de retrouver les vérités terrains réalisée par l'expert. La qualité de cette quête repose fondamentalement sur la qualité des annotations. Une image parfaitement annoté conduit à une bonne performance du modèle. Une image très mal annoté rends cette tache difficilement perfectible.
