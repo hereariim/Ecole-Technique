@@ -16,7 +16,7 @@ du deep learning. Ce cours est divisé en deux parties:
 
 - Système exploitation : Windows, Linux, MAC
 - Un compte Google avec Google colaboratory installé sur Google Drive
-- Data utilisé : [Arabidopsis Thaliana](https://uabox.univ-angers.fr/s/8nNR49DQJfJP7ie/download/herbe.zip)
+- Data utilisées : [Arabidopsis Thaliana](https://uabox.univ-angers.fr/s/8nNR49DQJfJP7ie/download/herbe.zip)
 - Installer le logiciel d'annotation Label me :
 
 ```
