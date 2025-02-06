@@ -24,7 +24,7 @@ Dans cet exercice, on va étudier le biais du jugement de l'annotateur.
 
 ### Consignes
 
-Sur label me, annoter les feuilles sur l'image **label_me_TP.tif**.
+Sur label me, annoter les feuilles sur l'image **label_me_TP.tif**. Vous avez 30min.
 
 ![Capture d'écran 2025-02-06 083506](https://github.com/user-attachments/assets/593badd1-d53e-47b1-905b-71c5264a9789)
 
