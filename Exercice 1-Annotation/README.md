@@ -20,7 +20,7 @@ A partir d'une image couleur et de sa vérité terrain, le modèle va tenter de 
 
 Très souvent, bien que l'annotation semble être, de loin, une tache pas très fatiguante, atteindre une excellente annotation est dans les faits difficiles. Cette activité nécessite en réalité un expert dans le domaine, de l'attention sur l'image et de la rigueur dans l'annotation sous la contrainte du temps.
 
-Dans cette exercice, on va étudier le biais de la subjectivité de l'annotateur. 
+Dans cette exercice, on va étudier le biais du jugement de l'annotateur. 
 
 ### Consignes
 
