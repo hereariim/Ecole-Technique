@@ -40,8 +40,9 @@ Equipe ImHorphen de l'Université d'Angers :
 
 - David Rousseau, Professeur des Universités, Université d'Angers
 - Abdoul Djalil Hamza Ousseini, Ingénieur d'études, INRAe
+- Julien Garnier, Ingénieur d'études, INRAe
 - Jordan Bernigaud-Samatan, Post-doc, INRAe
 
 ## Contributeur
 
-Ce cours a été présenté par l'équipe ImHorphen à l'Ecole technique de phénotypage HD. Il a été écrit sous le projet PHENET.
+Ce cours a été présenté par l'équipe ImHorphen et Jordan Bernigaud-Samatan  à l'Ecole technique de phénotypage HD. Il a été écrit sous le projet PHENET.
