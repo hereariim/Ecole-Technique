@@ -26,6 +26,8 @@ Dans cette exercice, on va étudier le biais de la subjectivité de l'annotateur
 
 Sur label me, annoter les feuilles sur l'image **label_me_TP.tif**.
 
+![Capture d'écran 2025-02-06 083506](https://github.com/user-attachments/assets/593badd1-d53e-47b1-905b-71c5264a9789)
+
 a) Ouvrir label me à partir de votre console (ou le logiciel)
 
 b) Glisser votre image dans la fenêtre labelme
